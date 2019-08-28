@@ -1,2 +1,3 @@
 pwd
-#first file`
+#first file
+git add	`
